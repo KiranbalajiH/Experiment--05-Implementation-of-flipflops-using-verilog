@@ -174,8 +174,3 @@ Implementation of flipflops using verilog successfully completed
 
 
 
-
-
-
-
-### RESULTS 
